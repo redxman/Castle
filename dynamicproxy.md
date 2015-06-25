@@ -1,3 +1,3 @@
 #Castle DynamicProxy
-DynamicProxy为对象生成代理,,从而可以用来为对象用来透明地增加或改变行为，提供事前/事后处理以及许多其他可能。Castle Windsor 使用代理来实现拦截功能，或为了类型工厂.
+DynamicProxy为对象生成代理,,从而可以用来为对象透明地增加或改变行为，提供事前/事后处理以及许多其他可能。Castle Windsor 使用代理来实现拦截功能，或为了类型工厂.
 如果你初次接触DynamicProxy，你可以从这里开始
